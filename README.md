@@ -1,7 +1,7 @@
 # lunarlander2
-##Programa de aterrizaje de modulo lunar con movimiento vertical uniformemente acelerado 
+## Programa de aterrizaje de modulo lunar con movimiento vertical uniformemente acelerado 
 
-###Instrucciones:
+###  Instrucciones:
 
 1. Descargue el archivo .py y la carpeta images y coloque ambos archivos juntos en una carpeta
 
